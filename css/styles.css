@@ -1,0 +1,102 @@
+body{
+  color: #40514e;
+    margin: 0;
+    text-align:center;
+    font-family: 'merriweather',serif;
+}
+.header{
+  background-color:#BFFFF0;
+  height: 600px;
+  width: 100%;
+  position: relative;
+  padding: 0;
+  display: inline-block;
+}
+.h1{
+  padding-top: 70px;
+  color: #66bfbf;
+}
+.first{
+  color:  #66bfbf;
+}
+
+h2{
+  font-size:2.5rem;
+  font-weight: normal;
+}
+h1{
+  font-family: 'Sacramento',cursive;
+  font-size: 3.75rem;
+
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+  margin: auto 10px;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+  width:5%;
+  color: #EAF6F6;
+}
+p{color: #40514E;
+
+}
+.bottom-container{
+    color:#11999E;
+}
+.cloud{
+  position:absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.mountain{
+  position: absolute;
+bottom: 0;
+margin: auto;
+right:250px;
+
+}
+
+.cloud2{
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+.bottom-container{
+  background-color:#BFFFF0;
+  padding: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skillmage{
+  width: 25%;
+  float:left;
+  margin-right: 20px;
+}
+.skillmage2{
+  width: 25%;
+  float:right;
+  margin-left: 20px;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto;
+}
+.photo{
+  width: 25%;
+}
+.ck1{
+  clear: left;
+}
+.ck2{
+  clear: right;
+}
